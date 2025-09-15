@@ -1,5 +1,4 @@
-**Vandebron Tecnical Assessment - Data Scientist Trading
-**   
+Vandebron Tecnical Assessment - Data Scientist Trading  
 
 Code deliverables:
 1. Backward looking optimal steering algorithm & total revenue  
